@@ -1,0 +1,6 @@
+from utils import *
+
+a = "12"
+b = "12"
+
+print(a == b)
